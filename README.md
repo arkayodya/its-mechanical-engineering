@@ -30,4 +30,4 @@ The goal of this repository is to bridge theoretical academic concepts with prac
 * **Target Skills:** Mastering foundational engineering graphics, parametic constraints, and basic script-based numerical computation.
 
 ---
-*“Ido Meca!” — Solidaritas Forever.*
+*“Über alles” — above all else*
