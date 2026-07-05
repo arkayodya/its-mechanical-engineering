@@ -3,7 +3,8 @@
 This directory serves as my archive for parametric 3D models, component assemblies, and formal 2D engineering drawings. 
 
 ## 🛠️ Software Stack
-* **Autodesk Fusion:** My primary tool for parametric part modeling, assembly construction, rendering, and technical drawing generation during my pre-university self-study phase.
+* **Autodesk Fusion:** For parametric 3D modeling, assembly construction, and rendering.
+* **FreeCAD:** An open-source parametric 3D modeler used for exploring open-source engineering workflows.
 
 ## 🗂️ File Naming & Numbering Convention
 To maintain industry standards, files in this directory follow a structured part-numbering system rather than generic names:
