@@ -19,15 +19,13 @@ This directory documents embedded systems, robotics, automation, and mechatronic
 - Arduino Uno
 - Raspberry Pi *(future)*
 
-## Directory
+## 📂 Directory Structure
 
-| Folder | Purpose |
-|---------|----------|
-| `arduino/` | Arduino projects |
-| `esp32/` | ESP32 projects |
-| `sensors/` | Sensor integration |
-| `control/` | Control systems |
-| `robotics/` | Robotics projects |
+- 📁 [arduino](arduino/)
+- 📁 [esp32](esp32/)
+- 📁 [sensors](sensors/)
+- 📁 [control](control/)
+- 📁 [robotics](robotics/)
 
 ---
 
