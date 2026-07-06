@@ -12,6 +12,13 @@ Examples include:
 
 Copyrighted textbooks are **not** included.
 
+## 📂 Directory Structure
+
+- 📁 [books](books/)
+- 📁 [cheat-sheets](cheat-sheets/)
+- 📁 [references](references/)
+- 📁 [software](software/)
+
 ---
 
 *"Good engineers know where to find reliable information."*
