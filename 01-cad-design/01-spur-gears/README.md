@@ -8,7 +8,7 @@ This was my first ever attempt at learning CAD software. A foundational mechanic
 * **Objective:** Design and assemble a functional reduction gear pair with proper tooth meshing.
 
 ## 📸 Component Preview
-![Gear Preview](./preview.png)
+![Gear Preview](./preview for spur gear.png)
 
 ## 🛠️ Design Competencies
 * Parametric gear tooth profile generation (Involute geometry).
