@@ -48,19 +48,6 @@ This project introduced several core mechanical design concepts, including:
 
 ---
 
-## 📂 Project Contents
-
-```text
-01-spur-gears/
-│
-├── README.md
-├── cad/
-├── drawings/
-├── exports/
-└── references/
-```
-
----
 
 ## 📖 Lessons Learned
 
