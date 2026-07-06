@@ -13,14 +13,12 @@ The goal is to complement theoretical engineering knowledge with computational p
 
 ## 📂 Directory Structure
 
-```
-python/
-matlab/
-numerical-methods/
-fea/
-cfd/
-data/
-```
+- 📁 [python](python/)
+- 📁 [matlab](matlab/)
+- 📁 [numerical-methods](numerical-methods/)
+- 📁 [fea](fea/)
+- 📁 [cfd](cfd/)
+- 📁 [data](data/)
 
 ## 📐 Documentation Standard
 

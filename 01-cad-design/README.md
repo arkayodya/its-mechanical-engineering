@@ -10,5 +10,13 @@ This directory serves as my archive for parametric 3D models, component assembli
 To maintain industry standards, files in this directory follow a structured part-numbering system rather than generic names:
 `ITS-ME-[Project Code]-[Part Number]` (e.g., `ITS-ME-01-001`)
 
+## 📂 Directory Structure
+
+- 📁 [projects](projects/)
+- 📁 [assemblies](assemblies/)
+- 📁 [drawings](drawings/)
+- 📁 [renders](renders/)
+- 📁 [templates](templates/)
+
 ---
 *“Documentation is Design.”*

@@ -15,6 +15,11 @@ Examples include:
 
 Using templates ensures every project follows the same documentation standard.
 
+## 📂 Directory Structure
+
+- 📁 [project-template](project-template/)
+- 📁 [report-template](report-template/)
+- 📁 [meeting-notes](meeting-notes/)
 ---
 
 *"Consistency builds professionalism."*
