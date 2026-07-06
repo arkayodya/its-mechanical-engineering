@@ -1,7 +1,7 @@
 # Project: Parametric Spur Gear Assembly ⚙️
 
 ## 📌 Project Overview
-A foundational mechanical assembly completed during the pre-university self-study phase. This project focuses on modeling a mating pair of spur gears mounted to a common base plate, exploring parametric gear tooth profiles, center-distance alignment, and rotational assembly constraints.
+This was my first ever attempt at learning CAD software. A foundational mechanical assembly completed during the pre-university self-study phase. This project focuses on modeling a mating pair of spur gears mounted to a common base plate, exploring parametric gear tooth profiles, center-distance alignment, and rotational assembly constraints.
 
 * **Part Number:** `ITS-ME-01-001`
 * **Software Used:** FreeCAD
