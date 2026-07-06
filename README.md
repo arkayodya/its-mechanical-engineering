@@ -109,6 +109,7 @@ My goal is for every project in this repository to reflect thoughtful engineerin
 
 > *"Build. Test. Learn. Repeat."*
 
+edit from obsidian a cool and very cool edit
 
 <img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/dbd6cb2f-9dde-4b11-9169-468193d007ce" />
 
