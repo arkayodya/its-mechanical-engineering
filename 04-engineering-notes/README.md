@@ -15,6 +15,17 @@ Rather than storing lecture slides, these notes contain my own explanations, der
 - Manufacturing
 - Machine Design
 
+## 📂 Directory Structure
+
+- 📁 [mathematics](mathematics/)
+- 📁 [mechanics](mechanics/)
+- 📁 [thermodynamics](thermodynamics/)
+- 📁 [materials](materials/)
+- 📁 [manufacturing](manufacturing/)
+- 📁 [fluid-mechanics](fluid-mechanics/)
+- 📁 [machine-design](machine-design/)
+- 📁 [reflections](reflections/)
+
 ## Philosophy
 
 Learning is reinforced through explanation.
