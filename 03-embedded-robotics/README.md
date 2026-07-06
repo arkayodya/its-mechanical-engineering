@@ -22,13 +22,11 @@ The emphasis is on integrating mechanical systems with electronics, sensors, act
 
 ## 📂 Directory Structure
 
-```
-arduino/
-esp32/
-sensors/
-control/
-robotics/
-```
+- 📁 [arduino](arduino/)
+- 📁 [esp32](esp32/)
+- 📁 [sensors](sensors/)
+- 📁 [control](control/)
+- 📁 [robotics](robotics/)
 
 ## Documentation Standard
 
