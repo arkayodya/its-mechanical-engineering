@@ -10,4 +10,11 @@ Examples include:
 - Diagrams
 - Screenshots
 
+## 📂 Directory Structure
+
+- 📁 [images](images/)
+- 📁 [icons](icons/)
+- 📁 [banners](banners/)
+
+
 These files support documentation but are not engineering projects themselves.
