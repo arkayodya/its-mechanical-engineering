@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e97a333fefadf709",
+        "id": "e8c19573db3efd6c",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc90ea97cb4db89",
+            "id": "d84f5a5ff573adab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "04-engineering-notes/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,9 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfc90ea97cb4db89",
+  "active": "d84f5a5ff573adab",
   "lastOpenFiles": [
+    "README.md",
+    "01-cad-design/README.md",
     "01-cad-design/01-spur-gears/README.md",
-    "README.md"
+    "02-computation-simulation/README.md",
+    "03-embedded-robotics/README.md"
   ]
 }
