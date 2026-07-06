@@ -21,6 +21,14 @@ Each project should include:
 
 Only projects that meet professional documentation standards are included.
 
+## 📂 Directory Structure
+
+- 📁 [personal](personal/)
+- 📁 [coursework](coursework/)
+- 📁 [competitions](competitions/)
+- 📁 [research](research/)
+- 📁 [capstone](capstone/)
+
 ---
 
 *"Engineering is demonstrated through projects, not claims."*
