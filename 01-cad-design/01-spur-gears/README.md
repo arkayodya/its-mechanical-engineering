@@ -31,7 +31,11 @@ Completed during the pre-university self-study period, the project explores the 
 
 ## 📸 Preview
 
+<<<<<<< HEAD
 ![Parametric Spur Gear Assembly](../../assets/images/projects/spur-gear-render.png)
+=======
+![Parametric Spur Gear Assembly](assets/images/projects/spur-gear-render.png)
+>>>>>>> 68bd30b5ab9ecb1e5486a507ea65b8889002f974
 
 ---
 
