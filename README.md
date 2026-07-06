@@ -42,8 +42,6 @@ Every project is an opportunity to learn. Successes are documented, failures are
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 | Directory | Description |
 |------------|-------------|
 | [01-cad-design](01-cad-design/) | CAD models, engineering drawings, assemblies, and design exercises |
