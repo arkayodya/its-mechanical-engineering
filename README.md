@@ -42,16 +42,18 @@ Every project is an opportunity to learn. Successes are documented, failures are
 
 ## 📂 Repository Structure
 
-| Directory                   | Description                                                                                   |
-| --------------------------- | --------------------------------------------------------------------------------------------- |
-| `01-cad-design`             | CAD models, engineering drawings, assemblies, and design exercises                            |
-| `02-computation-simulation` | Python, MATLAB, numerical methods, FEA, CFD, and engineering computation                      |
-| `03-embedded-robotics`      | Arduino, embedded systems, sensors, control systems, and robotics                             |
-| `04-engineering-notes`      | Technical notes, derivations, summaries, and engineering reflections                          |
-| `05-major-projects`         | Personal projects, coursework, competitions, research, and multidisciplinary engineering work |
-| `06-resources`              | Books, references, software, and engineering learning resources                               |
-| `07-templates`              | Reusable templates for project documentation and reports                                      |
-| `assets`                    | Images and media used throughout the repository                                               |
+## 📂 Repository Structure
+
+| Directory | Description |
+|------------|-------------|
+| [01-cad-design](01-cad-design/) | CAD models, engineering drawings, assemblies, and design exercises |
+| [02-computation-simulation](02-computation-simulation/) | Python, MATLAB, numerical methods, FEA, CFD, and engineering computation |
+| [03-embedded-robotics](03-embedded-robotics/) | Arduino, embedded systems, sensors, control systems, and robotics |
+| [04-engineering-notes](04-engineering-notes/) | Technical notes, derivations, summaries, and engineering reflections |
+| [05-major-projects](05-major-projects/) | Personal projects, coursework, competitions, research, and multidisciplinary work |
+| [06-resources](06-resources/) | Books, references, software, and engineering learning resources |
+| [07-templates](07-templates/) | Reusable templates for projects and reports |
+| [assets](assets/) | Images and media used throughout the repository |
 
 ---
 
