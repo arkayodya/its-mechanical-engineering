@@ -44,17 +44,34 @@ This project introduced several core mechanical design concepts, including:
 - Assembly constraints
 - Center-distance alignment
 - Basic interference checking
-- STEP (`.step`) file export for CAD interoperability
+- STEP (`.step`) export for CAD interoperability
 
 ---
 
+## 📂 Repository Structure
+
+- 📄 [README.md](README.md) — Project documentation
+
+- 📁 [cad](cad/)
+  - 📁 [source](cad/source/) — Native CAD files
+  - 📁 [exports](cad/exports/) — STEP, STL, IGES, PDF, and other exchange formats
+
+- 📁 [drawings](drawings/) — Engineering drawings
+
+- 📁 [calculations](calculations/) — Engineering calculations
+
+- 📁 [reports](reports/) — Technical reports
+
+- 📁 [references](references/) — References and supporting material
+
+---
 
 ## 📖 Lessons Learned
 
 - Parametric modeling enables rapid design modifications without rebuilding geometry.
 - Small dimensional changes can significantly affect gear meshing and assembly behavior.
-- Organizing CAD files consistently makes future revisions much easier.
-- Proper documentation is as important as the model itself.
+- Organizing engineering files using a consistent directory structure improves long-term maintainability.
+- Clear documentation is an essential part of the engineering design process.
 
 ---
 
@@ -62,11 +79,11 @@ This project introduced several core mechanical design concepts, including:
 
 As my engineering skills develop, I plan to revisit this project by:
 
-- Generating detailed engineering drawings
-- Performing gear ratio calculations
-- Adding material properties
-- Conducting finite element analysis (FEA)
-- Creating a fully constrained gearbox assembly
+- Produce manufacturing-ready engineering drawings
+- Perform gear ratio and torque calculations
+- Assign realistic material properties
+- Conduct finite element analysis (FEA)
+- Design a complete gearbox around the gear pair
 
 ---
 
