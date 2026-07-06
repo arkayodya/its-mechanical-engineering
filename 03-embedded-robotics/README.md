@@ -1,32 +1,33 @@
 # 03. Embedded Systems & Robotics
 
-This directory documents embedded systems, robotics, automation, and mechatronics projects developed throughout my engineering education.
+This directory documents embedded systems, robotics, automation, and mechatronics projects developed throughout my engineering studies.
 
-The emphasis is on integrating mechanical systems with electronics, sensors, actuators, and software.
+## Focus Areas
 
-## 🔧 Hardware
+- Arduino Programming
+- ESP32 Development
+- Sensor Integration
+- Control Systems
+- Robotics
 
-- Arduino
-- ESP32
-- Raspberry Pi *(future)*
-- DC Motors
-- Servo Motors
-- Stepper Motors
-- Sensors
+## Software & Hardware
 
-## 💻 Languages
-
+- Arduino IDE
+- PlatformIO
 - C++
-- Python
-- MATLAB *(future)*
+- ESP32
+- Arduino Uno
+- Raspberry Pi *(future)*
 
 ## 📂 Directory Structure
 
-- 📁 [arduino](arduino/)
-- 📁 [esp32](esp32/)
-- 📁 [sensors](sensors/)
-- 📁 [control](control/)
-- 📁 [robotics](robotics/)
+```
+arduino/
+esp32/
+sensors/
+control/
+robotics/
+```
 
 ## Documentation Standard
 
@@ -41,4 +42,6 @@ Every project should contain:
 
 ---
 
-*"A robot is only as good as its engineering."*
+**Engineering Principle**
+
+> *Measure. Analyze. Improve.*
