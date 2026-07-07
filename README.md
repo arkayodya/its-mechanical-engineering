@@ -107,8 +107,74 @@ My goal is for every project in this repository to reflect thoughtful engineerin
 
 ---
 
-> *"Build. Test. Learn. Repeat."*
+# 📊 Engineering Progress Dashboard
 
+> *"Über alles."*  
+> Building a professional engineering portfolio from freshman year to graduation.
 
-<img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/dbd6cb2f-9dde-4b11-9169-468193d007ce" />
+---
+
+## 🎓 Academic Progress
+
+| Status | Progress |
+|:------:|:--------|
+| 🎓 University | Institut Teknologi Sepuluh Nopember (ITS) |
+| 📅 Stage | Pre-University |
+| 📖 Current Semester | Beginning September 2026 |
+| 🎯 Goal | Graduate with an outstanding engineering portfolio |
+
+---
+
+## 🚀 Current Focus
+
+- [x] Repository Architecture
+- [x] Git & GitHub Workflow
+- [x] Obsidian Engineering Vault
+- [x] First CAD Project Documentation
+- [ ] Chemistry Preparation 
+- [x] FreeCAD Fundamentals
+- [ ] Python for Engineering
+- [ ] Engineering Mathematics Review
+
+---
+
+## 🛠️ Engineering Skills
+
+| Skill | Level |
+|------|:------:|
+| Git | 🟩🟩⬜⬜⬜ |
+| GitHub | 🟩🟩🟩⬜⬜ |
+| Obsidian | 🟩🟩🟩⬜⬜ |
+| FreeCAD | 🟩⬜⬜⬜⬜ |
+| Python | 🟩⬜⬜⬜⬜ |
+| MATLAB | ⬜⬜⬜⬜⬜ |
+| Arduino | ⬜⬜⬜⬜⬜ |
+| FEA | ⬜⬜⬜⬜⬜ |
+| CFD | ⬜⬜⬜⬜⬜ |
+
+---
+
+## 📈 Repository Statistics
+
+| Category | Count |
+|----------|------:|
+| CAD Projects | 1 |
+| Programming Projects | 0 |
+| Research Notes | 0 |
+| Engineering Notes | 0 |
+| Major Projects | 0 |
+
+---
+
+## 🎯 Next Milestones
+
+- Complete FreeCAD Fundamentals
+- Complete Chemistry Review
+- Archive First Engineering Notes
+- Build First Python Engineering Tool
+- Begin Semester 1 at ITS
+
+---
+
+> *"Small improvements, consistently documented, become extraordinary over four years."*
 
