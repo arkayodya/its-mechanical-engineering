@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4437a9d7728bcd1c",
+            "id": "3336a24f98e46ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4437a9d7728bcd1c",
+  "active": "3336a24f98e46ed0",
   "lastOpenFiles": [
-    "01-cad-design/02-boeing-737-800/notes/tutorial.md",
+    "01-cad-design/01-spur-gears/README.md",
     "01-cad-design/02-boeing-737-800/README.md",
+    "01-cad-design/02-boeing-737-800/notes/tutorial.md",
     "01-cad-design/02-boeing-737-800/notes/progress-log.md",
     "README.md",
     "styles.css",
@@ -204,7 +205,6 @@
     "00-curriculum",
     "02-computation-simulation/README.md",
     "cad/source.md",
-    "01-cad-design/01-spur-gears/README.md",
     "cad",
     "2026-W28.md",
     "2026-07-06.md"
