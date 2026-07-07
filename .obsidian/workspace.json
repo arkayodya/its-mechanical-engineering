@@ -4,11 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e8c19573db3efd6c",
+        "id": "ca017927b2533d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "d84f5a5ff573adab",
+            "id": "3dfa34e3a8f2673c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-curriculum/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2f9b85f4ccc22858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-engineering-notes/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12dc119ce707c9ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa64fbb138e96a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -164,6 +197,16 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "d06259651bc7db29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -184,12 +227,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d84f5a5ff573adab",
+  "active": "3dfa34e3a8f2673c",
   "lastOpenFiles": [
-    "README.md",
-    "01-cad-design/README.md",
-    "01-cad-design/01-spur-gears/README.md",
+    "00-curriculum/README.md",
+    "Untitled",
+    "04-engineering-notes/README.md",
+    "06-resources/README.md",
+    "03-embedded-robotics/README.md",
+    "00-curriculum",
     "02-computation-simulation/README.md",
-    "03-embedded-robotics/README.md"
+    "README.md",
+    "cad/source.md",
+    "01-cad-design/01-spur-gears/README.md",
+    "cad",
+    "01-cad-design/README.md",
+    "2026-W28.md",
+    "2026-07-06.md"
   ]
 }
