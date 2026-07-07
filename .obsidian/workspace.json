@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-cad-design/02-boeing-737-800/references/dimensions/boeing-737-800-specifications.md",
+                "file": "01-cad-design/02-boeing-737-800/notes/progress-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boeing-737-800-specifications"
+              "title": "progress-log"
             }
           }
         ],
@@ -199,8 +199,10 @@
   },
   "active": "4e385d9bd0efa513",
   "lastOpenFiles": [
-    "01-cad-design/02-boeing-737-800/references/blueprints/Airfoil2.gif",
+    "01-cad-design/02-boeing-737-800/notes/tutorial.md",
+    "01-cad-design/02-boeing-737-800/notes/progress-log.md",
     "01-cad-design/02-boeing-737-800/references/dimensions/boeing-737-800-specifications.md",
+    "01-cad-design/02-boeing-737-800/references/blueprints/Airfoil2.gif",
     "01-cad-design/02-boeing-737-800/references/blueprints/Boeing 737-800.gif",
     "01-cad-design/02-boeing-737-800/references/blueprints/Top.jpg",
     "01-cad-design/02-boeing-737-800/references/blueprints/Side.jpg",
@@ -208,8 +210,6 @@
     "01-cad-design/02-boeing-737-800/references/blueprints/Front.jpg",
     "01-cad-design/02-boeing-737-800/README.md",
     "01-cad-design/01-spur-gears/README.md",
-    "01-cad-design/02-boeing-737-800/notes/tutorial.md",
-    "01-cad-design/02-boeing-737-800/notes/progress-log.md",
     "README.md",
     "styles.css",
     "Daily Journal(for obsidian calendar)/2026-07-07.md",
